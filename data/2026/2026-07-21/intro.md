@@ -9,3 +9,4 @@ Near-death experiences are reported by 10–23% of cardiac arrest survivors in p
 - Are distressing NDEs more common in certain demographics or time periods?
 - How has the rate of NDERF submissions changed over time (1999–2025)?
 - Do deeper NDEs (higher Greyson scores) tend to have longer narratives?
+

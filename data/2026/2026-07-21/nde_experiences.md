@@ -18,3 +18,4 @@
 |ai_past_lives    |logical       |Whether AI detected past life recall in the narrative. |
 |ai_world_future  |logical       |Whether AI detected visions of the world's future in the narrative. |
 |ai_aliens        |logical       |Whether AI detected alien or extraterrestrial encounters in the narrative. |
+
