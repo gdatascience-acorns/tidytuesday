@@ -4,7 +4,7 @@ article:
   url: "https://arxiv.org/abs/astro-ph/9704108"
 data_source:
   title: "VizieR Astronomical Catalogs (Ho, Filippenko & Sargent 1995, 1997, 2009)"
-  url: "https://cdsarc.cds.unistra.fr/viz-bin/cat/J/ApJS/112/315"
+  url: "https://vizier.cds.unistra.fr/viz-bin/VizieR-2?-source=J/ApJS/112/315"
 images:
 # Please include at least one image, and up to three images
 - file: "palomar_bpt_diagram.png"
